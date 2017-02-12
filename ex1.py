@@ -1,3 +1,5 @@
+# Simple printing program from Exercise 1 of "Learn Python the Hard Way" book.
+
 print "Hello World!"
 print "Hello Again"
 print "I like typing this."
