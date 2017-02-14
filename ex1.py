@@ -1,4 +1,4 @@
-# Simple printing program from Exercise 1 of "Learn Python the Hard Way" book.
+# Simple printing program from Exercise 1 of the "Learn Python the Hard Way" book.
 
 print "Hello World!"
 print "Hello Again"
